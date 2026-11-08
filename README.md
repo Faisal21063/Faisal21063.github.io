@@ -36,7 +36,7 @@ This repository is used exclusively for **Google AdMob app-ads.txt verification*
 ## Contact
 
 For any questions about this repository or the hosted files, please use the contact information on the main website:  
-https://www.theinsidersviews.com/p/contact.html
+https://digitalleadsdev.blogspot.com/p/contact.html
 
 ---
 
